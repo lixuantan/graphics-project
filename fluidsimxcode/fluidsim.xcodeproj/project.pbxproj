@@ -51,7 +51,6 @@
 		6F66FCCA207E070D00B7C337 /* Vector2f.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Vector2f.cpp; sourceTree = "<group>"; };
 		6F66FCCB207E070D00B7C337 /* Matrix4f.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Matrix4f.cpp; sourceTree = "<group>"; };
 		6F66FCCC207E070D00B7C337 /* Vector4f.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Vector4f.cpp; sourceTree = "<group>"; };
-		6F66FCD4207E073D00B7C337 /* vec2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = vec2.h; path = /Users/admin/Desktop/school/graphics/fluidsim/fluidsim/fluidsim/vec2.h; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +86,6 @@
 		6F66FC9F207E033100B7C337 /* fluidsim */ = {
 			isa = PBXGroup;
 			children = (
-				6F66FCD4207E073D00B7C337 /* vec2.h */,
 				6F66FCB1207E04F200B7C337 /* main.cpp */,
 				6F66FCBB207E070D00B7C337 /* vecmath */,
 			);
